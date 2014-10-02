@@ -1002,4 +1002,4 @@ if (!function_exists('get_temp_dir')) {
 	}
 }
 
-OC::init();
+OC::init();		// Initiate the login page
